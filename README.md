@@ -1,6 +1,6 @@
 # 💻 Computer Science Student | .NET Backend Learner
 
-> Driven by logic and structure, I am currently building my foundation in the .NET ecosystem. I enjoy breaking down complex problems and understanding how backend systems function under the hood. 🚀
+> Driven by logic and structure, I am currently building my foundation in the .NET ecosystem. I enjoy breaking down complex problems and understanding how backend systems function under the hood. 
 
 ---
 
