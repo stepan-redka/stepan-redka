@@ -11,33 +11,24 @@ A comprehensive system for practicing the basics of ASP.NET Core, managing datab
 
 ---
 
-### 🛠️ HARD SKILLS
+### 📊 SKILLS & MINDSET
 
-| Category | Technology Stack |
-| :--- | :--- |
-| **Languages** | `C#`, `JavaScript (F)`, `Python (F)`, `C++ (F)` |
-| **Backend** | `ASP.NET Core MVC`, `Entity Framework Core`, `ASP.NET Identity` |
-| **Databases** | `MySQL`, `MariaDB`, `MSSQL`, `MongoDB` |
-| **Concepts** | `OOP`, `SOLID`, `DRY`, `Data Structures`, `ML (F)` |
-| **Cloud & Tools** | `Git`, `Docker`, `Linux (Mint/Debian)`, `AWS/Azure (F)` |
-
----
-
-### 🧠 SOFT SKILLS
-
-* **Self-motivation** 
-* **Responsibility** 
-* **Teamwork & Leadership** 
-* **Stress Resistance** 
-* **Adaptability** 
-* **Critical Thinking** 
+| 🛠️ HARD SKILLS | &nbsp;&nbsp;&nbsp;&nbsp; | 🧠 SOF SKILLS |
+| :--- | :---: | :--- |
+| **Languages:** `C#`, `JS (F)`, `Python (F)`, `C++ (F)` | | • **Self-motivation** |
+| **Backend:** `.NET MVC`, `EF Core`, `Identity` | | • **Responsibility**  |
+| **Databases:** `MySQL`, `MSSQL`, `MongoDB` | | • **Teamwork & Leadership**  |
+| **Engineering:** `OOP`, `SOLID`, `DRY`, `DS` | | • **Stress Resistance**  |
+| **Cloud & Tools:** `Git`, `Docker`, `Linux` | | • **Adaptability**  |
+| **Infrastructure:** `AWS / Azure (F)` | | • **Critical Thinking**  |
 
 ---
 
-### 🎓 EDUCATION
+### 🎓 EDUCATION & DEVELOPMENT
 
 * **BSc in Computer Science** | *Ivan Franko National University of Lviv (2022 – Present)* 🏛️
 * **Erasmus+ Exchange Student** | *University of Tübingen, Germany (2025)* 🌍
+* **Udemy Certifications** ✅
 
 ---
 
