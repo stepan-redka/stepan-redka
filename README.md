@@ -13,14 +13,15 @@ A comprehensive system for practicing the basics of ASP.NET Core, managing datab
 
 ### 📊 SKILLS & MINDSET
 
-| 🛠️ HARD SKILLS | &nbsp;&nbsp;&nbsp;&nbsp; | 🧠 SOF SKILLS |
-| :--- | :---: | :--- |
-| **Languages:** `C#`, `JS (F)`, `Python (F)`, `C++ (F)` | | • **Self-motivation** |
-| **Backend:** `.NET MVC`, `EF Core`, `Identity` | | • **Responsibility**  |
-| **Databases:** `MySQL`, `MSSQL`, `MongoDB` | | • **Teamwork & Leadership**  |
-| **Engineering:** `OOP`, `SOLID`, `DRY`, `DS` | | • **Stress Resistance**  |
-| **Cloud & Tools:** `Git`, `Docker`, `Linux` | | • **Adaptability**  |
-| **Infrastructure:** `AWS / Azure (F)` | | • **Critical Thinking**  |
+| 🛠️ HARD SKILLS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 🧠 SOFT SKILLS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :--- | :--- |
+| **Languages:** `C#`, `JavaScript (F)`, `Python (F)`, `C++ (F)` | **Self-motivation** |
+| **Backend:** `.NET MVC`, `EF Core`, `Identity` | **Responsibility**  |
+| **Databases:** `MySQL`, `MSSQL`, `MongoDB` |  **Teamwork & Leadership**  |
+| **Engineering:** `OOP`, `SOLID`, `DRY`, `Data Structures` |  **Stress Resistance**  |
+| **Cloud & Tools:** `Git`, `Docker`, `Linux` |  **Adaptability**  |
+| **Infrastructure:** `AWS / Azure (Familiarity)` |  **Critical Thinking**  |
+
 
 ---
 
