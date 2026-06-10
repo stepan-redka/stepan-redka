@@ -92,6 +92,29 @@ git push origin main
 
 ---
 
+## 3. Project Structure
+
+The repository contains the following files:
+
+- `index.html`: Semantic HTML5 resume markup.
+- `style.css`: Custom stylesheet defining the layouts, responsive design, and glassmorphism styling.
+- `tasks.txt`: Task checklist sent by the mentor.
+- `README.md`: This file, documenting repository setup logs and directory structure.
+- `.gitignore`: Specifies files and directories that Git should ignore.
+
+---
+
+## 4. Deployment
+
+The resume webpage is hosted using GitHub Pages. The hosting configuration is set up as follows:
+
+- **Hosting Provider**: GitHub Pages
+- **Deployment Source**: Deployed from the root folder (`/`) of the `main` branch.
+- **Deployment Pipeline**: Automatically triggered and deployed by GitHub Pages upon any push or merge to the main branch.
+- **Access URL**: The live webpage is publicly accessible at [https://stepan-redka.github.io/Resume/](https://stepan-redka.github.io/Resume/)
+
+---
+
 ## Summary
 
 | Task | Status | Details |
@@ -99,4 +122,5 @@ git push origin main
 | GitHub Repository |  Complete | `stepan-redka/resume` created |
 | SSH Setup |  Complete | ED25519 key configured & verified |
 | Repository Clone |  Complete | Cloned via SSH |
-| Initial Content |  Complete | `index.html` added & pushed 
+| Initial Content |  Complete | `index.html` added & pushed |
+| GitHub Pages |  Complete | Hosted at https://stepan-redka.github.io/Resume/ |
