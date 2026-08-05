@@ -7,9 +7,10 @@
 
 ### 🎓 EDUCATION & DEVELOPMENT
 
-* **BSc in Computer Science** | *Ivan Franko National University of Lviv (2022 – Present)* 🏛️
+* **BSc in Computer Science** | *Ivan Franko National University of Lviv (2022 – 2026)* 🏛️
 * **Erasmus+ Exchange Student** | *University of Tübingen, Germany (2025)* 🌍
 * **Udemy Certifications** ✅
+* **Code Warrior** | [https://www.codewars.com/users/stepan-redka]
 
 ---
 
