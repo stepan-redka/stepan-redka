@@ -2,7 +2,7 @@
 
 # Hi, I'm Stepan Redka 👋
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+.NET+Backend+Developer;Building+with+C%23+%26+ASP.NET+Core;Currently+exploring+RAG+systems;3D+C%23+Developer+%40+AMC+Bridge&font=Space+Grotesk&size=20&pause=1500&color=0E7368&center=true&vCenter=true&width=560&height=40" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+.NET+Backend+Developer;Building+with+C%23+%26+ASP.NET+Core;3D+C%23+Developer+%40+AMC+Bridge&font=Space+Grotesk&size=20&pause=1500&color=0E7368&center=true&vCenter=true&width=560&height=40" alt="typing banner" />
 
 Driven by logic and structure, I build software with C# and the .NET ecosystem, with a growing focus on backend development.
 
@@ -45,9 +45,11 @@ Driven by logic and structure, I build software with C# and the .NET ecosystem, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=stepan-redka&show_icons=true&theme=transparent&hide_border=true&title_color=0E7368&icon_color=B07A43&text_color=5E696F&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=stepan-redka&layout=compact&theme=transparent&hide_border=true&title_color=0E7368&text_color=5E696F&langs_count=8" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=stepan-redka&show_icons=true&theme=transparent&hide_border=true&title_color=0E7368&icon_color=B07A43&text_color=5E696F&include_all_commits=true&exclude_repo=ML-42-1" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=stepan-redka&layout=compact&theme=transparent&hide_border=true&title_color=0E7368&text_color=5E696F&langs_count=8&exclude_repo=ML-42-1" />
 </p>
+
+
 
 
 ---
