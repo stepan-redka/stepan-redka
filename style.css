@@ -383,6 +383,16 @@ h1 {
     border-color: rgba(176, 122, 67, 0.16);
 }
 
+.repo-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    margin-top: 14px;
+    font-size: 0.86rem;
+    font-weight: 800;
+    color: var(--accent-strong);
+}
+
 .timeline {
     display: grid;
     gap: 18px;
