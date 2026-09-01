@@ -45,8 +45,8 @@ Driven by logic and structure, I build software with C# and the .NET ecosystem, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=stepan-redka&show_icons=true&theme=transparent&hide_border=true&title_color=0E7368&icon_color=B07A43&text_color=5E696F&include_all_commits=true&exclude_repo=ML-42-1" />
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=stepan-redka&layout=compact&theme=transparent&hide_border=true&title_color=0E7368&text_color=5E696F&langs_count=8&exclude_repo=ML-42-1" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=stepan-redka&show_icons=true&theme=transparent&hide_border=true&title_color=0E7368&icon_color=B07A43&text_color=5E696F&include_all_commits=true&exclude_repo=ML-42-1,SECOND_REPO_NAME" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=stepan-redka&layout=compact&theme=transparent&hide_border=true&title_color=0E7368&text_color=5E696F&langs_count=8&exclude_repo=ML-42-1,SECOND_REPO_NAME" />
 </p>
 
 
